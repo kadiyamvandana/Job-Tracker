@@ -1,0 +1,18 @@
+# Frontend dependencies
+job-tracker-frontend/node_modules/
+job-tracker-frontend/dist/
+job-tracker-frontend/build/
+
+# Java build files
+job-tracker-backend/target/
+
+# Environment files and secrets
+.env
+**/.env
+**/.env.*
+!.env.example
+
+# IDE and log files
+.idea/
+.vscode/
+*.log
