@@ -1,7 +1,7 @@
 # Online Job Application Tracker - Backend
 
 ## Stack
-Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, Razorpay.
+Java 25 (LTS), Spring Boot, Spring Security, JWT, PostgreSQL, Razorpay.
 
 ## 1. Database
 Create a PostgreSQL database:
